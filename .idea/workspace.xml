@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c691a0f2-d437-4d35-8699-accbd1b6b847" name="Changes" comment="added module_8_1.py">
-      <change afterPath="$PROJECT_DIR$/module_8_2.py" afterDir="false" />
+    <list default="true" id="c691a0f2-d437-4d35-8699-accbd1b6b847" name="Changes" comment="added module_8_2.py">
+      <change afterPath="$PROJECT_DIR$/module_8_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,11 +76,20 @@
       <option name="project" value="LOCAL" />
       <updated>1721850857301</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added module_8_2.py">
+      <option name="closed" value="true" />
+      <created>1721864247872</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1721864247872</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added module_8_1.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="added module_8_1.py" />
+    <MESSAGE value="added module_8_2.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="added module_8_2.py" />
   </component>
 </project>
